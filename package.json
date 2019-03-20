@@ -1,0 +1,16 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "A starwars serious game",
+  "main": "lostInDesert.js",
+  "scripts": {
+    "start": "node lostInDesert.js",
+    "dev": "./node_modules/.bin/nodemon lostInDesert.js"
+  },
+  "keywords": ["agile", "seriousgame", "serious-game"],
+  "author": "ugo.arzur@morning.com",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
