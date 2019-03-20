@@ -1,9 +1,21 @@
 # Scrum team
 Adaptation d'un serious-game pour une rétro.
 
-## Ressources
-- [Ressources Coach Agile](http://coach-agile.com/2014/04/apprenez-la-priorisation-serious-game)
+## Projects
 
+### Star wars project
+
+```js
+npm run lostInDesert
+```
+
+#### Ressources
+- [Ressources Coach Agile](http://coach-agile.com/2014/04/apprenez-la-priorisation-serious-game)
+- [PDF Coach Agile](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://coach-agile.com/wp-content/uploads/2014/04/Perdus-dans-desert.pdf)
+- [Expert ranking 1](https://coach-agile.com/wp-content/uploads/2014/04/Desert-Survival-Expert-Rationale-1.jpg)
+- [Expert ranking 2](https://coach-agile.com/wp-content/uploads/2014/04/Desert-Survival-Expert-Rationale-2.jpg)
+
+#### Objectifs
 L’animateur du jeu présente la situation aux joueurs: Ils sont les seuls survivants d’un crash d’avion, et se retrouvent en plein désert avec une liste de 15 objets à leur disposition.
 
 Dans un premier temps, l’animateur demande à chaque personne de faire un classement personnel des objets à disposition en les numérotant de 1 à 15 du plus prioritaire au moins prioritaire.

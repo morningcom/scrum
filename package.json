@@ -4,8 +4,7 @@
   "description": "A starwars serious game",
   "main": "lostInDesert.js",
   "scripts": {
-    "start": "node lostInDesert.js",
-    "dev": "./node_modules/.bin/nodemon lostInDesert.js"
+    "lostInDesert": "node ./projects/starwars/lostInDesert.js"
   },
   "keywords": ["agile", "seriousgame", "serious-game"],
   "author": "ugo.arzur@morning.com",
