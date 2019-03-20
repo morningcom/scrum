@@ -11,7 +11,7 @@ npm run lostInDesert
 
 #### Ressources
 - [Ressources Coach Agile](http://coach-agile.com/2014/04/apprenez-la-priorisation-serious-game)
-- [PDF Coach Agile](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://coach-agile.com/wp-content/uploads/2014/04/Perdus-dans-desert.pdf)
+- [PDF Coach Agile](https://coach-agile.com/wp-content/uploads/2014/04/Perdus-dans-desert.pdf)
 - [Expert ranking 1](https://coach-agile.com/wp-content/uploads/2014/04/Desert-Survival-Expert-Rationale-1.jpg)
 - [Expert ranking 2](https://coach-agile.com/wp-content/uploads/2014/04/Desert-Survival-Expert-Rationale-2.jpg)
 
